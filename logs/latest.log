@@ -1,0 +1,65 @@
+[17:47:08] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Directory 'plugins\LuckPerms-Bukkit-5.4.111.jar' failed to load!
+java.lang.RuntimeException: Directory 'plugins\LuckPerms-Bukkit-5.4.111.jar' failed to load!
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:59) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$registerProviders$1(DirectoryProviderSource.java:34) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:32) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:14) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:14) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:100) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.Main.main(Main.java:134) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at org.bukkit.craftbukkit.Main.main(Main.java:324) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.lang.RuntimeException: Could not load plugin 'LuckPerms v5.4.111' as it is not marked as supporting Folia!
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:22) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:16) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.provider.type.PluginFileType.register(PluginFileType.java:71) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:57) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	... 20 more
+[17:47:10] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:47:11] [ServerMain/INFO]: Loaded 7 recipes
+[17:47:11] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[17:47:11] [Server thread/INFO]: Loading properties
+[17:47:11] [Server thread/INFO]: This server is running Folia version git-Folia-"1e5e215" (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT) (Git: 1e5e215)
+[17:47:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:47:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:47:12] [Server thread/WARN]: [!] The timings system cannot be enabled on Folia, and has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[17:47:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[17:47:12] [Server thread/INFO]: [io.papermc.paper.threadedregions.TickRegions] Regionised ticking is enabled with 1 tick threads
+[17:47:12] [Server thread/INFO]: Default game type: SURVIVAL
+[17:47:12] [Server thread/INFO]: Generating keypair
+[17:47:12] [Server thread/INFO]: Starting Minecraft server on 192.168.100.212:25565
+[17:47:12] [Server thread/INFO]: Using default channel type
+[17:47:12] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[17:47:12] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[17:47:12] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[17:47:12] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[17:47:12] [Server thread/WARN]: Perhaps a server is already running on that port?
+[17:47:12] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.IllegalStateException: Failed to initialize server
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:343) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:47:12] [Server thread/ERROR]: This crash report has been saved to: E:\server\.\crash-reports\crash-2023-12-11_17.47.12-server.txt
+[17:47:12] [Region shutdown thread/INFO]: [RegionShutdownThread] Awaiting scheduler termination for 60s
+[17:47:12] [Region shutdown thread/INFO]: [RegionShutdownThread] Scheduler halted
+[17:47:12] [Region shutdown thread/INFO]: Stopping server
+[17:47:12] [Region shutdown thread/INFO]: [RegionShutdownThread] Halting chunk systems
+[17:47:12] [Region shutdown thread/INFO]: [RegionShutdownThread] Halted chunk systems
+[17:47:12] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving players
+[17:47:12] [Region shutdown thread/INFO]: Flushing Chunk IO
+[17:47:12] [Region shutdown thread/INFO]: Closing Thread Pool
+[17:47:12] [Region shutdown thread/INFO]: Closing Server

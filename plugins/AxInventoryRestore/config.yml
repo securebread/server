@@ -1,0 +1,37 @@
+prefix: '&#00aaff&lAxInventoryRestore &7» '
+
+# how long should the plugin keep backups? (in days)
+# this will run at server start/stop and when usign /axir cleanup
+cleanup-after-days: 14
+
+# should there also be an all category that cointains all the backups of a player?
+# disabling this will speed up the gui loading, but it should already load in miliseconds
+enable-all-category: true
+
+# this setting is not reloadable, you have to restart the server
+# should the plugin make backups periodically?
+# do not set "minutes" to anything below 1
+automatic-backup:
+  enabled: true
+  minutes: 5
+
+database:
+  # h2, sqlite, mysql, postgresql
+  # for single server setups we recommend h2 because it's way faster than sqlite
+  type: h2
+  
+  # you only need to touch these when using mysql/postgresql
+  address: 127.0.0.1
+  port: 3306
+  database: admin
+  username: admin
+  password: admin
+  pool:
+    maximum-pool-size: 10
+    minimum-idle: 10
+    maximum-lifetime: 1800000
+    keepalive-time: 0
+    connection-timeout: 5000
+
+# do not change this
+version: 2

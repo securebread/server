@@ -1,0 +1,23 @@
+# Uncomment the following values if you want to change them:
+# 
+# Decides whether telekinesis can be used without the enchantment.
+onByDefault = false
+# Uncomment this to block functionality for those who don't have the required permission.
+# onByDefaultPermissionRequirement = 'permission'
+# 
+# Decides whether players should be required to sneak to use telekinesis.
+onlyOnSneak = false
+# Decides whether telekinesis can be used for block drops.
+blockDrops = true
+# blockDropsPermissionRequirement = 'permission'
+# 
+# Decides whether telekinesis can be used for exp drops.
+expDrops = true
+# expDropsPermissionRequirement = 'permission'
+# 
+# Decides whether telekinesis can be used for entity drops.
+entityDrops = true
+# entityDropsPermissionRequirement = 'permission'
+# 
+# Decides whether to add the enchantment to the game.
+enchantment = true

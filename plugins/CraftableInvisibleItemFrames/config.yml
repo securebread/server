@@ -1,0 +1,26 @@
+language:
+  default-language: en_us
+  auto-language: true
+regular-invisible-item-frames:
+  enabled: true
+  glowing-outlines: true
+  enchant-frame-items: true
+invisible-glow-item-frames:
+  enabled: true
+  glowing-outlines: true
+  enchant-frame-items: true
+recipe-center-items:
+- ==: org.bukkit.inventory.ItemStack
+  v: 3578
+  type: LINGERING_POTION
+  meta:
+    ==: ItemMeta
+    meta-type: POTION
+    potion-type: minecraft:invisibility
+- ==: org.bukkit.inventory.ItemStack
+  v: 3578
+  type: LINGERING_POTION
+  meta:
+    ==: ItemMeta
+    meta-type: POTION
+    potion-type: minecraft:long_invisibility
