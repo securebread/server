@@ -88,8 +88,8 @@ presets:
         blended-levelling:
           enabled: true
           transition-y-height: 62
-          lvl-multiplier: 0.05
-          multiplier-period: 10
+          lvl-multiplier: 0.02
+          multiplier-period: 1
           scale-downward: true
 
   random_Levelling:
@@ -114,12 +114,12 @@ presets:
         decrease-level: true
         recheck-players: false
         preserve-entity: 10s
-        player-level-scale: 1.0
+        player-level-scale: .2
         level-cap: 30
         tiers:
-          1-15: 1-10
-          16-30: 11-20
-          31-45: 21-25
+          1-15: 1-20
+          16-30: 21-22
+          31-45: 23-25
         variable: '%level%'
 
   lvl-mod_apply-variance:

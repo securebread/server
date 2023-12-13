@@ -1,0 +1,198 @@
+NoFall:
+  silent: false
+  name: NoFall
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+XRay:
+  silent: false
+  name: XRay
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+Exploits:
+  silent: false
+  name: Exploits
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+NoSwing:
+  silent: false
+  name: NoSwing
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+IrregularMovements:
+  silent: false
+  name: IrregularMovements
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+ImpossibleActions:
+  silent: false
+  name: ImpossibleActions
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+ItemDrops:
+  silent: false
+  name: ItemDrops
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+AutoRespawn:
+  name: AutoRespawn
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+InventoryClicks:
+  silent: false
+  name: InventoryClicks
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+NoSlowdown:
+  silent: false
+  name: NoSlowdown
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+Criticals:
+  silent: false
+  name: Criticals
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+GhostHand:
+  silent: false
+  name: GhostHand
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: false
+BlockReach:
+  silent: false
+  name: BlockReach
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+FastBow:
+  silent: false
+  name: FastBow
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+FastClicks:
+  silent: false
+  name: FastClicks
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+FastHeal:
+  silent: false
+  name: FastHeal
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+ImpossibleInventory:
+  silent: false
+  name: ImpossibleInventory
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+HitReach:
+  silent: false
+  name: HitReach
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+FastBreak:
+  silent: false
+  name: FastBreak
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+Speed:
+  silent: false
+  name: Speed
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+FastPlace:
+  silent: false
+  name: FastPlace
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+MorePackets:
+  silent: false
+  name: MorePackets
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+FastEat:
+  silent: false
+  name: FastEat
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+Velocity:
+  silent: false
+  name: Velocity
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
+KillAura:
+  silent: false
+  name: KillAura
+  disabled_worlds: exampleDisabledWorld1, exampleDisabledWorld2
+  silent_worlds: exampleSilentWorld1, exampleSilentWorld2
+  enabled:
+    java: true
+  punish: true
