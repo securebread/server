@@ -41,6 +41,7 @@ Protections:
   player_limit_per_ip: 0
   interactions_per_tick: 10
   disallowed_building: true
+  explosion_detection_cooldown: 4
 Important:
   op_bypass: false
   enable_permissions: true
@@ -52,6 +53,7 @@ Important:
   bedrock_player_prefix: .
   inventory_menu_empty_heads: true
   load_player_head_textures: false
+  use_permission_cache: false
 Cloud:
   server_name: specify server name
   synchronise_files: true
