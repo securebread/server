@@ -7,6 +7,8 @@ NoFall:
     java: true
   punish: true
   check_ratio: true
+  check_spoof: true
+  check_air: true
 XRay:
   silent: false
   name: XRay
@@ -32,6 +34,7 @@ NoSwing:
     java: true
   punish: true
   check_breaking: true
+  check_damage: true
 IrregularMovements:
   silent: false
   name: IrregularMovements
@@ -64,6 +67,8 @@ ImpossibleActions:
   check_item_usage: true
   check_liquids: true
   check_tower: true
+  check_scaffold: true
+  check_air_placement: true
 ItemDrops:
   silent: false
   name: ItemDrops
@@ -97,6 +102,7 @@ NoSlowdown:
   punish: true
   check_item_usage: true
   check_food_eating: true
+  check_bow_shots: true
 Criticals:
   silent: false
   name: Criticals
@@ -105,6 +111,10 @@ Criticals:
   enabled:
     java: true
   punish: true
+  check_damage: true
+  check_position: true
+  check_mini_jump: true
+  check_location: true
 GhostHand:
   silent: false
   name: GhostHand
@@ -115,6 +125,7 @@ GhostHand:
   punish: false
   check_block_breaking: true
   check_fully_solid_blocks_only: true
+  check_player_interactions: true
 BlockReach:
   silent: false
   name: BlockReach
@@ -132,6 +143,8 @@ FastBow:
   enabled:
     java: true
   punish: true
+  check_bow_shots: true
+  check_bow_force: true
 FastClicks:
   silent: false
   name: FastClicks
@@ -174,6 +187,8 @@ HitReach:
   enabled:
     java: true
   punish: true
+  vertical_distance: 4.6
+  horizontal_distance: 3.1
 FastBreak:
   silent: false
   name: FastBreak
@@ -202,6 +217,7 @@ FastPlace:
   enabled:
     java: true
   punish: true
+  check_fast: true
 MorePackets:
   silent: false
   name: MorePackets
@@ -242,3 +258,10 @@ KillAura:
   check_pattern: true
   detection:
     entities: true
+  check_irregular: true
+  check_raytrace: true
+  check_distance: true
+  check_time: true
+  check_rotations: true
+  check_direction: true
+  check_movement: true
