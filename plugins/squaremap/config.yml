@@ -7,11 +7,11 @@ settings:
     internal-webserver:
         enabled: true
         bind: 0.0.0.0
-        port: 8080
+        port: 25556
     language-file: lang-en.yml
     debug-mode: false
     update-checker: true
-    web-address: http://localhost:8080
+    web-address: http://localhost:25556
     ui:
         coordinates:
             enabled: true
