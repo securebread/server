@@ -25,6 +25,8 @@ Exploits:
     java: true
   punish: true
   check_head_position: true
+  check_elytra: true
+  check_chat_messages: true
 NoSwing:
   silent: false
   name: NoSwing
@@ -199,6 +201,7 @@ FastBreak:
   punish: true
   check_delay: true
   indirect_surroundings_per_second: 15
+  max_breaks_per_second: 40
 Speed:
   silent: false
   name: Speed
@@ -258,6 +261,7 @@ KillAura:
   check_pattern: true
   detection:
     entities: true
+    players: true
   check_irregular: true
   check_raytrace: true
   check_distance: true

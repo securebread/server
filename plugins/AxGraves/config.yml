@@ -32,7 +32,7 @@ head-height: -1.2
 # worlds where death chests won't spawn
 # this is case-sensitive
 disabled-worlds:
-- blacklisted_world
+
 
 # true: the head can face in all the 360 degrees
 # false: the head can face in only 4 directions (north, east, south, west)
