@@ -1,79 +1,1318 @@
-[00:02:30] [Region Scheduler Thread #1/INFO]: wpgwave lost connection: Disconnected
-[00:02:30] [Region Scheduler Thread #1/INFO]: [voicechat] Disconnecting client wpgwave
-[00:02:30] [Region Scheduler Thread #1/INFO]: wpgwave left the game
-[00:03:10] [Region Scheduler Thread #1/INFO]: Saving is already turned on
-[00:03:16] [Region Scheduler Thread #0/INFO]: Unknown command. Type "/help" for help.
-[00:03:18] [Region Scheduler Thread #1/INFO]: Stopping the server
-[00:03:18] [Region shutdown thread/INFO]: [RegionShutdownThread] Awaiting scheduler termination for 60s
-[00:03:18] [Region shutdown thread/INFO]: [RegionShutdownThread] Scheduler halted
-[00:03:18] [Region shutdown thread/INFO]: Stopping server
-[00:03:18] [Region shutdown thread/INFO]: [SharePosition] Disabling SharePosition v0.0.2
-[00:03:18] [Region shutdown thread/INFO]: » Plugin has been unloaded.
-[00:03:18] [Region shutdown thread/INFO]: [EntityLimiter] Disabling EntityLimiter v1.4
-[00:03:18] [Region shutdown thread/INFO]: [MCKotlin-Paper] Disabling MCKotlin-Paper v1.4.0-k1.9.21
-[00:03:19] [Region shutdown thread/INFO]: [InvisibleItemFrames] Disabling CraftableInvisibleItemFrames v1.4.0
-[00:03:19] [Region shutdown thread/INFO]: [voicechat] Disabling voicechat v2.4.30
-[00:03:19] [Region shutdown thread/INFO]: [AxGraves] Disabling AxGraves v1.3.1
-[00:03:19] [Region shutdown thread/INFO]: [BetterWorldStats] Disabling BetterWorldStats v1.7.1
-[00:03:19] [Region shutdown thread/INFO]: [CoreProtect] Disabling CoreProtect v22.2
-[00:03:19] [Region shutdown thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
-[00:03:19] [Region shutdown thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.2
-[00:03:19] [Region shutdown thread/INFO]: [AxInventoryRestore] Disabling AxInventoryRestore v1.4.1
-[00:03:19] [Region shutdown thread/INFO]: [BuddyTP] Disabling BuddyTP v1.1.0
-[00:03:20] [Region shutdown thread/INFO]: [Spartan] Disabling Spartan vPhase 528.1
-[00:03:20] [Region shutdown thread/INFO]: [Chunky] Disabling Chunky v1.3.92
-[00:03:20] [Region shutdown thread/INFO]: [ToolStats] Disabling ToolStats v1.7.1
-[00:03:20] [Region shutdown thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.0-SNAPSHOT
-[00:03:20] [Region shutdown thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[00:03:21] [Region shutdown thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[00:03:21] [Region shutdown thread/INFO]: [squaremap] Disabling squaremap v1.2.2
-[00:03:21] [Region shutdown thread/INFO]: [io.undertow] stopping server: Undertow - 2.3.10.Final
-[00:03:21] [Region shutdown thread/INFO]: [squaremap] Internal webserver stopped
-[00:03:21] [Region shutdown thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3-SNAPSHOT
-[00:03:21] [Region shutdown thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[00:03:21] [WebSocketConnectReadThread-2319/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[00:03:21] [Region shutdown thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Halting chunk systems
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Halted chunk systems
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [-160, -160] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [-32, -160] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [-224, -256] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [-128, -384] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [96, -160] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [352, -384] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [256, -352] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [-256, -352] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 0 entity chunks, 1 poi chunks in world 'world' in 0.01s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [-96, -256] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [32, -192] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [0, 0] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 9 block chunks, 269 entity chunks, 0 poi chunks in world 'world' in 0.26s
-[00:03:21] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [192, -288] in world 'world'
-[00:03:21] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.03s
-[00:03:23] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [64, -96] in world 'world_nether'
-[00:03:23] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[00:03:23] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [-2, 0] in world 'world_nether'
-[00:03:23] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 36 block chunks, 28 entity chunks, 0 poi chunks in world 'world_nether' in 0.15s
-[00:03:23] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [-128, -192] in world 'world_nether'
-[00:03:24] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.16s
-[00:03:25] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [1, -1] in world 'world_the_end'
-[00:03:27] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 1132 block chunks, 11 entity chunks, 0 poi chunks in world 'world_the_end' in 1.82s
-[00:03:27] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving players
-[00:03:27] [Region shutdown thread/INFO]: Flushing Chunk IO
-[00:03:27] [Region shutdown thread/INFO]: Closing Thread Pool
-[00:03:27] [Region shutdown thread/INFO]: Closing Server
+[00:21:06] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.pom
+[00:21:07] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.pom
+[00:21:07] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.36/slf4j-parent-1.7.36.pom
+[00:21:08] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/3.1.8/caffeine-3.1.8.pom
+[00:21:08] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.37.0/checker-qual-3.37.0.pom
+[00:21:08] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.21.1/error_prone_annotations-2.21.1.pom
+[00:21:08] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/google/errorprone/error_prone_parent/2.21.1/error_prone_parent-2.21.1.pom
+[00:21:08] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.25.0/commons-compress-1.25.0.pom
+[00:21:09] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/64/commons-parent-64.pom
+[00:21:09] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apache/apache/30/apache-30.pom
+[00:21:09] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/junit/junit-bom/5.10.0/junit-bom-5.10.0.pom
+[00:21:09] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apache/commons/commons-text/1.11.0/commons-text-1.11.0.pom
+[00:21:10] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.pom
+[00:21:10] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/58/commons-parent-58.pom
+[00:21:10] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apache/apache/29/apache-29.pom
+[00:21:10] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/junit/junit-bom/5.9.3/junit-bom-5.9.3.pom
+[00:21:10] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/maxmind/geoip2/geoip2/4.1.0/geoip2-4.1.0.pom
+[00:21:11] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+[00:21:11] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/maxmind/db/maxmind-db/3.0.0/maxmind-db-3.0.0.pom
+[00:21:11] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.pom
+[00:21:11] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-base/2.15.2/jackson-base-2.15.2.pom
+[00:21:11] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.15.2/jackson-bom-2.15.2.pom
+[00:21:12] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-parent/2.15/jackson-parent-2.15.pom
+[00:21:12] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/oss-parent/50/oss-parent-50.pom
+[00:21:12] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/junit/junit-bom/5.9.2/junit-bom-5.9.2.pom
+[00:21:12] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.pom
+[00:21:12] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.pom
+[00:21:13] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.16.0/jackson-annotations-2.16.0.pom
+[00:21:13] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-parent/2.16/jackson-parent-2.16.pom
+[00:21:13] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/oss-parent/56/oss-parent-56.pom
+[00:21:13] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.16.0/jackson-core-2.16.0.pom
+[00:21:13] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-base/2.16.0/jackson-base-2.16.0.pom
+[00:21:13] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.16.0/jackson-bom-2.16.0.pom
+[00:21:14] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.16.0/jackson-databind-2.16.0.pom
+[00:21:14] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/me/xdrop/fuzzywuzzy/1.4.0/fuzzywuzzy-1.4.0.pom
+[00:21:14] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-paper/1.8.4/cloud-paper-1.8.4.pom
+[00:21:14] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-bukkit/1.8.4/cloud-bukkit-1.8.4.pom
+[00:21:15] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-core/1.8.4/cloud-core-1.8.4.pom
+[00:21:15] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-services/1.8.4/cloud-services-1.8.4.pom
+[00:21:15] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.pom
+[00:21:15] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.28.0/checker-qual-3.28.0.pom
+[00:21:16] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.pom
+[00:21:16] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-brigadier/1.8.4/cloud-brigadier-1.8.4.pom
+[00:21:16] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-tasks/1.8.4/cloud-tasks-1.8.4.pom
+[00:21:16] [BasicRepositoryConnector-repo1.maven.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar
+[00:21:16] [BasicRepositoryConnector-repo1.maven.org-0-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+[00:21:16] [BasicRepositoryConnector-repo1.maven.org-0-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/3.1.8/caffeine-3.1.8.jar
+[00:21:16] [BasicRepositoryConnector-repo1.maven.org-0-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.37.0/checker-qual-3.37.0.jar
+[00:21:16] [BasicRepositoryConnector-repo1.maven.org-0-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.21.1/error_prone_annotations-2.21.1.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.25.0/commons-compress-1.25.0.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apache/commons/commons-text/1.11.0/commons-text-1.11.0.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/maxmind/geoip2/geoip2/4.1.0/geoip2-4.1.0.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/maxmind/db/maxmind-db/3.0.0/maxmind-db-3.0.0.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.16.0/jackson-annotations-2.16.0.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.16.0/jackson-core-2.16.0.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.16.0/jackson-databind-2.16.0.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/me/xdrop/fuzzywuzzy/1.4.0/fuzzywuzzy-1.4.0.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-paper/1.8.4/cloud-paper-1.8.4.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-bukkit/1.8.4/cloud-bukkit-1.8.4.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-core/1.8.4/cloud-core-1.8.4.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-services/1.8.4/cloud-services-1.8.4.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-brigadier/1.8.4/cloud-brigadier-1.8.4.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/cloud/commandframework/cloud-tasks/1.8.4/cloud-tasks-1.8.4.jar
+[00:21:17] [BasicRepositoryConnector-repo1.maven.org-0-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[00:21:31] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:21:42] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/wither}.pools[0].entries[0]: Unknown loot table called incendium:artifact/patron/warping_witherblade
+[00:21:42] [ServerMain/INFO]: Loaded 7 recipes
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/laser/init
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 12: ...ecute run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 12: ...ecute run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:load
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 6: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 6: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/crystalcount_0
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function terralith:rtp_testing
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/crystalcount_1
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/laser/raycast
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:other/default_settings
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 80: ...648.. run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 80: ...648.. run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function load:_private/init
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:_settings
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/dragon_entity_spawn
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:clocks/20tick
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/dive/find
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/shockwave/summon
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/phase_totem
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/phase_chainfire
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:clocks/10tick
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/phase_totem
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:respawning/end
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/phase_laser
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/globalsound_preview
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 10: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 10: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:tick
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 8: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 8: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:respawning/place_end_crystal_hit
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 23: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 23: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/phase_totem_growl
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 14: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 14: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function nova_structures:mobs
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 37: ...!vex] run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 37: ...!vex] run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/ambience_1
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/ambience_0
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/ambience_2
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/phase_3
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/phase_10
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/phase_5
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/phase_7
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/ultra_fireball_hit
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 6: Incorrect argument for command at position 97: ...at @s run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 6: Incorrect argument for command at position 97: ...at @s run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/phase_ultrafireball
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/shockwave/root
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/phase_0
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/silent
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:respawning/a_main
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:ambience/wave_particle2
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/dragontrail_1
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:ambience/dragon_entity
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:clocks/2tick
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/dragontrail_0
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/phase_ultra_fireball
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/wave_particle_huge
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function terralith:setup
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:respawning/place_end_crystal
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Incorrect argument for command at position 26: ... eyes run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Incorrect argument for command at position 26: ... eyes run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/globalsound_1
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/globalsound_0
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/phase_totem_almost
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 87: ...t 0.1 run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 87: ...t 0.1 run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:respawning/place_end_crystal_raycast
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 92: ...stal] run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 92: ...stal] run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:ambience/dragon_entity_summon
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/wave_particle_huge2
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/crystal_count
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 5: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:commands/unsilent
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/a_main_final
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:ambience/wave_particle3
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/ultra_fireball
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:settings/set_value_dragonhealth
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 124: ...tings run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 124: ...tings run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:other/xp
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:other/reset_settings
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/phase_laser
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/shockwave/root2
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:ambience/a_main
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 91: ...at @s run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 91: ...at @s run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/shockwave/summon2
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/pearlbreaking_1
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:action/pearlbreaking_0
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:other/teleport_end
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 16: Incorrect argument for command at position 30: ... ~1 ~ run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 16: Incorrect argument for command at position 30: ... ~1 ~ run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/shockwave/find_ground
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/shockwave/summon_pad
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 77: ...at @s run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 77: ...at @s run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:clocks/5tick
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/dive/hit
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 8: Incorrect argument for command at position 158: ...at @s run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 8: Incorrect argument for command at position 158: ...at @s run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/laser/hit
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 6: Incorrect argument for command at position 102: ...at @s run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 6: Incorrect argument for command at position 102: ...at @s run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:ambience/wave_particle
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/a_main
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 59: ...rcent run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 59: ...rcent run <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:other/teleport_end_wave
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Failed to load function true_ending:boss/dive/phase
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.fromLines(CommandFunction.java:119) ~[?:?]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:80) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[00:21:42] [ServerMain/ERROR]: Couldn't load tag load:_private/init as it is missing following references: load:_private/init (from file/Incendium_1.20_v5.3.2.zip)
+[00:21:42] [ServerMain/ERROR]: Couldn't load tag minecraft:tick as it is missing following references: nova_structures:mobs (from file/DnT Ancient Citty Rework.zip), nova_structures:mobs (from file/DnT Stronghold Rework.zip), nova_structures:mobs (from file/Dungeons and Taverns 3.0.3.zip), true_ending:tick (from file/trueending_v1.0.1b_1.20.zip)
+[00:21:42] [ServerMain/ERROR]: Couldn't load tag load:load as it is missing following references: #incendium:load (from file/Incendium_1.20_v5.3.2.zip)
+[00:21:42] [ServerMain/ERROR]: Couldn't load tag load:_private/load as it is missing following references: #load:_private/init (from file/Incendium_1.20_v5.3.2.zip)
+[00:21:42] [ServerMain/ERROR]: Couldn't load tag minecraft:load as it is missing following references: true_ending:load (from file/trueending_v1.0.1b_1.20.zip), #load:_private/load (from file/Incendium_1.20_v5.3.2.zip)
+[00:21:43] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[00:21:43] [Server thread/INFO]: Loading properties
+[00:21:43] [Server thread/INFO]: This server is running Folia version git-Folia-"1e5e215" (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT) (Git: 1e5e215)
+[00:21:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:21:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:21:46] [Server thread/WARN]: [!] The timings system cannot be enabled on Folia, and has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[00:21:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
+[00:21:46] [Server thread/INFO]: [io.papermc.paper.threadedregions.TickRegions] Regionised ticking is enabled with 2 tick threads
+[00:21:47] [Server thread/INFO]: Default game type: SURVIVAL
+[00:21:47] [Server thread/INFO]: Generating keypair
+[00:21:47] [Server thread/INFO]: Starting Minecraft server on 192.168.100.231:25565
+[00:21:48] [Server thread/INFO]: Using epoll channel type
+[00:21:48] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:21:48] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[00:21:48] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/orebfuscator-plugin-5.4.3.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ProtocolLib]. Please download and install these plugins to run 'Orebfuscator'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.loadPlugins(CraftServer.java:520) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1173) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:343) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:21:48] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/carbonchat-paper-3.0.0-beta.25.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [LuckPerms]. Please download and install these plugins to run 'CarbonChat'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.loadPlugins(CraftServer.java:520) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1173) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:343) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:21:49] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R2.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:22:00] [Server thread/WARN]: Legacy plugin BetterWorldStats v1.7.1 does not specify an api-version.
+[00:22:00] [Server thread/INFO]: [squaremap] Loading server plugin squaremap v1.2.2
+[00:22:00] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.3-SNAPSHOT
+[00:22:00] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[00:22:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:22:02] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
+[00:22:02] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:22:03] [Server thread/INFO]: [floodgate] Took 1,452ms to boot Floodgate
+[00:22:03] [Server thread/INFO]: [ToolStats] Loading server plugin ToolStats v1.7.1
+[00:22:03] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.92
+[00:22:03] [Server thread/INFO]: [EpicGuard] Loading server plugin EpicGuard v7.5.2
+[00:22:03] [Server thread/INFO]: [BuddyTP] Loading server plugin BuddyTP v1.1.0
+[00:22:03] [Server thread/INFO]: [AxInventoryRestore] Loading server plugin AxInventoryRestore v1.4.1
+[00:22:03] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
+[00:22:03] [Server thread/INFO]: [BetterWorldStats] Loading server plugin BetterWorldStats v1.7.1
+[00:22:03] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.3.1
+[00:22:03] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.4.30
+[00:22:03] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.0-SNAPSHOT
+[00:22:05] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[00:22:05] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[00:22:05] [Server thread/INFO]: [InvisibleItemFrames] Loading server plugin CraftableInvisibleItemFrames v1.4.0
+[00:22:05] [Server thread/INFO]: [MCKotlin-Paper] Loading server plugin MCKotlin-Paper v1.4.0-k1.9.21
+[00:22:05] [Server thread/INFO]: [EntityLimiter] Loading server plugin EntityLimiter v1.4
+[00:22:05] [Server thread/INFO]: [SharePosition] Loading server plugin SharePosition v0.0.2
+[00:22:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:22:05] [Server thread/INFO]: [squaremap] Enabling squaremap v1.2.2
+[00:22:07] [Server thread/INFO]: [io.undertow] starting server: Undertow - 2.3.10.Final
+[00:22:08] [Server thread/INFO]: [org.xnio] XNIO version 3.8.8.Final
+[00:22:08] [Server thread/INFO]: [org.xnio.nio] XNIO NIO Implementation Version 3.8.8.Final
+[00:22:08] [Server thread/INFO]: [org.jboss.threads] JBoss Threads version 3.5.0.Final
+[00:22:08] [Server thread/INFO]: [squaremap] Internal webserver running on 0.0.0.0:25556
+[00:22:08] [Server thread/INFO]: [MCKotlin-Paper] Enabling MCKotlin-Paper v1.4.0-k1.9.21
+[00:22:08] [Server thread/INFO]: [EntityLimiter] Enabling EntityLimiter v1.4
+[00:22:08] [Server thread/INFO]: Preparing level "world"
+[00:22:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:22:11] [Server thread/INFO]: Time elapsed: 37 ms
+[00:22:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:22:12] [Server thread/INFO]: Time elapsed: 11 ms
+[00:22:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:22:12] [Server thread/INFO]: Time elapsed: 6 ms
+[00:22:12] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3-SNAPSHOT
+[00:22:12] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
+[00:22:13] [Server thread/INFO]: [ToolStats] Enabling ToolStats v1.7.1
+[00:22:13] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.92
+[00:22:13] [Server thread/INFO]: [EpicGuard] Enabling EpicGuard v7.5.2
+[00:22:13] [Server thread/INFO]: [EpicGuard] Running on: git-Folia-"1e5e215" (MC: 1.20.2)
+[00:22:13] [Server thread/INFO]: [EpicGuard] Loading configuration...
+[00:22:14] [Server thread/INFO]: [EpicGuard] Initializing managers...
+[00:22:14] [Server thread/INFO]: [EpicGuard] This product includes GeoLite2 data created by MaxMind, available from https://www.maxmind.com
+[00:22:14] [Server thread/INFO]: [EpicGuard] GeoIP database download is disabled, skipping...
+[00:22:14] [Server thread/ERROR]: [EpicGuard] An error occurred in EpicGuard v7.5.2
+[00:22:14] [Server thread/ERROR]: [EpicGuard]  > Details: Error while getting the GeoIP databases, please check your internet connection.
+[00:22:14] [Server thread/ERROR]: [EpicGuard]  > Platform: git-Folia-"1e5e215" (MC: 1.20.2)
+[00:22:14] [Server thread/ERROR]: [EpicGuard]  > Stacktrace: 
+[00:22:14] [Server thread/ERROR]: [EpicGuard] 
+java.io.FileNotFoundException: plugins/EpicGuard/data/GeoLite2-Country.mmdb (No such file or directory)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:?]
+	at java.io.RandomAccessFile.open(RandomAccessFile.java:344) ~[?:?]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:259) ~[?:?]
+	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:213) ~[?:?]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[?:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:104) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:233) ~[?:?]
+	at me.xneox.epicguard.core.manager.GeoManager.<init>(GeoManager.java:80) ~[EpicGuardPaper-7.5.2.jar:?]
+	at me.xneox.epicguard.core.EpicGuard.startup(EpicGuard.java:75) ~[EpicGuardPaper-7.5.2.jar:?]
+	at me.xneox.epicguard.core.EpicGuard.<init>(EpicGuard.java:64) ~[EpicGuardPaper-7.5.2.jar:?]
+	at me.xneox.epicguard.paper.EpicGuardPaper.onEnable(EpicGuardPaper.java:45) ~[EpicGuardPaper-7.5.2.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[folia-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[folia-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:652) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:563) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:670) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:452) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:308) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1173) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:343) ~[folia-1.20.2.jar:git-Folia-"1e5e215"]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:22:14] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[00:22:14] [Folia Async Scheduler Thread #0/INFO]: [ToolStats] You are running the latest version.
+[00:22:14] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@16dba51e
+[00:22:14] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[00:22:14] [Server thread/INFO]: [EpicGuard] Initializing LogFilter...
+[00:22:14] [Server thread/INFO]: [EpicGuard] Scheduling tasks...
+[00:22:14] [Server thread/INFO]: [EpicGuard] Startup completed successfully. Welcome to EpicGuard v7.5.2
+[00:22:14] [Server thread/INFO]: [EpicGuard] Order of the detection pipeline: LockdownCheck, BlacklistCheck, NicknameCheck, GeographicalCheck, ServerListCheck, ReconnectCheck, AccountLimitCheck, NameSimilarityCheck, ProxyCheck
+[00:22:15] [Server thread/INFO]: [BuddyTP] Enabling BuddyTP v1.1.0
+[00:22:15] [Server thread/INFO]: [BuddyTP] Enabling bStats, thanks it really helps!
+[00:22:15] [Server thread/INFO]: [AxInventoryRestore] Enabling AxInventoryRestore v1.4.1
+[00:22:16] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
+[00:22:17] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[00:22:17] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[00:22:17] [Server thread/INFO]: --------------------
+[00:22:17] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[00:22:17] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[00:22:17] [Server thread/INFO]: --------------------
+[00:22:17] [Server thread/INFO]: [BetterWorldStats] Enabling BetterWorldStats v1.7.1*
+[00:22:17] [Server thread/INFO]: [BetterWorldStats]                                                                                 
+[00:22:17] [Server thread/INFO]: [BetterWorldStats]   ___      _   _         __      __       _    _ ___ _        _                 
+[00:22:17] [Server thread/INFO]: [BetterWorldStats]  | _ ) ___| |_| |_ ___ _ \ \    / /__ _ _| |__| / __| |_ __ _| |_ ___         
+[00:22:17] [Server thread/INFO]: [BetterWorldStats]  | _ \/ -_)  _|  _/ -_) '_\ \/\/ / _ \ '_| / _` \__ \  _/ _` |  _(_-<    
+[00:22:17] [Server thread/INFO]: [BetterWorldStats]  |___/\___|\__|\__\___|_|  \_/\_/\___/_| |_\__,_|___/\__\__,_|\__/__/
+[00:22:17] [Server thread/INFO]: [BetterWorldStats]                                                                                 
+[00:22:17] [Server thread/INFO]: [BetterWorldStats] Loading languages
+[00:22:17] [Server thread/INFO]: [BetterWorldStats] Found language file for en_us
+[00:22:17] [Server thread/INFO]: [BetterWorldStats] Found language file for ru_ru
+[00:22:17] [Server thread/INFO]: [BetterWorldStats] Found language file for de_de
+[00:22:17] [Server thread/INFO]: [BetterWorldStats] Loading config
+[00:22:17] [Server thread/INFO]: [BetterWorldStats] Registering commands
+[00:22:17] [Server thread/INFO]: [BetterWorldStats] Loading Metrics
+[00:22:17] [Server thread/INFO]: [BetterWorldStats] Done.
+[00:22:17] [Folia Async Scheduler Thread Timer/INFO]: [BetterWorldStats] Updated filesize asynchronously (Real size: 9.03GB, Spoofed size: 9.03GB). Unique player joins: 8
+[00:22:17] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.3.1
+[00:22:17] [Server thread/INFO]: [voicechat] Enabling voicechat v2.4.30
+[00:22:17] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.2-R0.1
+[00:22:17] [Server thread/INFO]: [voicechat] Compatibility version 17
+[00:22:17] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[00:22:17] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[00:22:17] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.0-SNAPSHOT
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames] Enabling CraftableInvisibleItemFrames v1.4.0
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames]                          
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames]            /*\           
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames]       ┏╍╍╍╍╍╍╍╍╍╍╍┓      
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames]       ┋           ┋      
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames]       ┋           ┋      
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames]       ┋           ┋      
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames]       ┗╍╍╍╍╍╍╍╍╍╍╍┛      
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames]         Craftable        
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames]   Invisible Item Frames  
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames]                          
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames] Loading Language
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames] Found language file for en_us
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames] Found language file for ru_ru
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames] Found language file for dk_da
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames] Found language file for de_de
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames] Loading Config
+[00:22:17] [Server thread/INFO]: [InvisibleItemFrames] Registering Commands
+[00:22:18] [Server thread/INFO]: [InvisibleItemFrames] Done.
+[00:22:18] [Server thread/INFO]: [SharePosition] Enabling SharePosition v0.0.2
+[00:22:18] [Server thread/INFO]: » Plugin has been loaded.
+[00:22:18] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:22:18] [Server thread/INFO]: [Geyser-Spigot] 
+[00:22:18] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.0-SNAPSHOT (git-master-6e56666)
+[00:22:18] [Server thread/INFO]: [Geyser-Spigot] 
+[00:22:18] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:22:29] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[00:22:29] [Server thread/INFO]: [Geyser-Spigot] Done (11.776s)! Run /geyser help for help!
+[00:22:30] [Via Async Task 0/WARN]: [Geyser-Spigot] You are using an outdated version of ViaVersion; please download the newest version from https://ci.viaversion.com/job/ViaVersion/
+[00:22:30] [ForkJoinPool.commonPool-worker-2/INFO]: [squaremap] Fetching version information...
+[00:22:30] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.2 (764)
+[00:22:30] [Server thread/INFO]: Done (46.726s)! For help, type "help"
+[00:22:30] [Region Scheduler Thread #0/INFO]: [voicechat] Loading plugins
+[00:22:30] [Region Scheduler Thread #0/INFO]: [voicechat] Loaded 0 plugin(s)
+[00:22:30] [Region Scheduler Thread #0/INFO]: [voicechat] Initializing plugins
+[00:22:30] [Region Scheduler Thread #0/INFO]: [voicechat] Initialized 0 plugin(s)
+[00:22:30] [VoiceChatServerThread/INFO]: [voicechat] Using server-ip as bind address: 192.168.100.231
+[00:22:30] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 192.168.100.231:24454
+[00:22:30] [Via Async Task 1/WARN]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[00:22:30] [Region Scheduler Thread #1/INFO]: Initialising world 'world' before it can be ticked...
+[00:22:30] [Region Scheduler Thread #1/INFO]: Initialised world 'world'
+[00:22:30] [Region Scheduler Thread #1/INFO]: Timings Reset
+[00:22:31] [Via Async Scheduler 0/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[00:22:31] [ForkJoinPool.commonPool-worker-2/INFO]: [squaremap] squaremap is 1 version(s) out of date.
+[00:22:31] [ForkJoinPool.commonPool-worker-2/INFO]: [squaremap] Download the latest release (v1.2.3) from https://github.com/jpenilla/squaremap/releases/tag/v1.2.3
+[00:22:31] [Region Scheduler Thread #1/INFO]: Initialising world 'world_nether' before it can be ticked...
+[00:22:31] [Region Scheduler Thread #1/INFO]: Initialised world 'world_nether'
+[00:22:31] [Region Scheduler Thread #1/INFO]: Initialising world 'world_the_end' before it can be ticked...
+[00:22:31] [Region Scheduler Thread #1/INFO]: Initialised world 'world_the_end'
+[00:28:51] [Region Scheduler Thread #0/INFO]: Stopping the server
+[00:28:51] [Region shutdown thread/INFO]: [RegionShutdownThread] Awaiting scheduler termination for 60s
+[00:28:51] [Region shutdown thread/INFO]: [RegionShutdownThread] Scheduler halted
+[00:28:51] [Region shutdown thread/INFO]: Stopping server
+[00:28:51] [Region shutdown thread/INFO]: [SharePosition] Disabling SharePosition v0.0.2
+[00:28:51] [Region shutdown thread/INFO]: » Plugin has been unloaded.
+[00:28:51] [Region shutdown thread/INFO]: [EntityLimiter] Disabling EntityLimiter v1.4
+[00:28:51] [Region shutdown thread/INFO]: [MCKotlin-Paper] Disabling MCKotlin-Paper v1.4.0-k1.9.21
+[00:28:51] [Region shutdown thread/INFO]: [InvisibleItemFrames] Disabling CraftableInvisibleItemFrames v1.4.0
+[00:28:51] [Region shutdown thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.0-SNAPSHOT
+[00:28:51] [Region shutdown thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[00:28:51] [Region shutdown thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[00:28:51] [Region shutdown thread/INFO]: [voicechat] Disabling voicechat v2.4.30
+[00:28:51] [Region shutdown thread/INFO]: [AxGraves] Disabling AxGraves v1.3.1
+[00:28:51] [Region shutdown thread/INFO]: [BetterWorldStats] Disabling BetterWorldStats v1.7.1
+[00:28:51] [Region shutdown thread/INFO]: [CoreProtect] Disabling CoreProtect v22.2
+[00:28:51] [Region shutdown thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[00:28:51] [WebSocketConnectReadThread-171/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[00:28:52] [Region shutdown thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.2
+[00:28:52] [Region shutdown thread/INFO]: [AxInventoryRestore] Disabling AxInventoryRestore v1.4.1
+[00:28:52] [Region shutdown thread/INFO]: [BuddyTP] Disabling BuddyTP v1.1.0
+[00:28:52] [Region shutdown thread/INFO]: [EpicGuard] Disabling EpicGuard v7.5.2
+[00:28:52] [Region shutdown thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[00:28:52] [Region shutdown thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[00:28:52] [Region shutdown thread/INFO]: [Chunky] Disabling Chunky v1.3.92
+[00:28:52] [Region shutdown thread/INFO]: [ToolStats] Disabling ToolStats v1.7.1
+[00:28:52] [Region shutdown thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
+[00:28:52] [Region shutdown thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3-SNAPSHOT
+[00:28:52] [Region shutdown thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[00:28:52] [Region shutdown thread/INFO]: [squaremap] Disabling squaremap v1.2.2
+[00:28:52] [Region shutdown thread/INFO]: [io.undertow] stopping server: Undertow - 2.3.10.Final
+[00:28:52] [Region shutdown thread/INFO]: [squaremap] Internal webserver stopped
+[00:28:53] [Region shutdown thread/INFO]: [RegionShutdownThread] Halting chunk systems
+[00:28:53] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:28:53] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:28:53] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:28:53] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:28:53] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:28:53] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:28:53] [Region shutdown thread/INFO]: [RegionShutdownThread] Halted chunk systems
+[00:28:53] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [0, 0] in world 'world'
+[00:28:53] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 60 entity chunks, 0 poi chunks in world 'world' in 0.05s
+[00:28:53] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [0, 0] in world 'world_nether'
+[00:28:53] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[00:28:53] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [1, -1] in world 'world_the_end'
+[00:28:53] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 11 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[00:28:54] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving players
+[00:28:54] [Region shutdown thread/INFO]: Flushing Chunk IO
+[00:28:54] [Region shutdown thread/INFO]: Closing Thread Pool
+[00:28:54] [Region shutdown thread/INFO]: Closing Server
