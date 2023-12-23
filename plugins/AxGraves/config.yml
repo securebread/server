@@ -3,7 +3,7 @@ prefix: '&#FF00FF&lAxGraves &7» '
 # how fast should death chests disappear
 # set to -1 to make graves last until the next server restart
 # in seconds
-despawn-time-seconds: 180
+despawn-time-seconds: 3600
 
 # should death chests drop all items on the ground when they expire?
 # if false: items will be removed
@@ -45,7 +45,7 @@ auto-rotation:
 
 # true: only the person who died and people with axgraves.admin can open the grave
 # false: everyone can open the grave
-interact-only-own: false
+interact-only-own: true
 
 # items that will be removed on death and will not show up in graves
 blacklisted-items:

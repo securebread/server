@@ -10,28 +10,6 @@
 # Discord: https://www.spigotmc.org/go/discord
 # Forums: http://www.spigotmc.org/
 
-settings:
-  debug: false
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./start.sh
-  moved-too-quickly-multiplier: 10.0
-  save-user-cache-on-stop-only: false
-  moved-wrongly-threshold: 0.0625
-  user-cache-size: 1000
-  bungeecord: false
-  sample-count: 12
-  player-shuffle: 0
-  netty-threads: 4
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
-  log-villager-deaths: true
-  log-named-deaths: true
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -125,7 +103,7 @@ world-settings:
     merge-radius:
       item: 2.5
       exp: 3.0
-    item-despawn-rate: 6000
+    item-despawn-rate: 60000
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
     nerf-spawner-mobs: false
@@ -175,3 +153,25 @@ config-version: 12
 stats:
   disable-saving: false
   forced-stats: {}
+settings:
+  debug: false
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.sh
+  user-cache-size: 1000
+  player-shuffle: 0
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
+  log-villager-deaths: true
+  log-named-deaths: true
+  save-user-cache-on-stop-only: false
+  sample-count: 12
+  bungeecord: false
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  netty-threads: 12
